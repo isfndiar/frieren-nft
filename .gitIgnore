@@ -1,0 +1,26 @@
+web3/node_modules
+node_modules
+.env
+
+# Hardhat files
+/cache
+web3/cache
+
+/artifacts
+web3/artifacts
+
+# TypeChain files
+/typechain
+web3/typechain
+/typechain-types
+web3/typechain-types
+
+# solidity-coverage files
+/coverage
+web3/coverage
+/coverage.json
+web3/coverage.json
+
+# Hardhat Ignition default folder for deployments against a local node
+ignition/deployments/chain-31337
+web3/ignition/deployments/chain-31337
